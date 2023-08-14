@@ -1,0 +1,27 @@
+ 
+
+   Dashboard------Angular Project------ Work flow
+  ------------------------------------------------
+  1.create a project ng new admin-dashboard
+  2. run project----- ng s/serve
+  3. install third party libraries
+
+        -- angular material
+        * choose prebuild theme
+        * typography
+        *set up browser animations
+
+ 4. to use any component from angular material
+      -- copy the api from particular component and paste it on app module.test
+
+5. generate components ng g c c-name
+      
+      --header
+      --footer
+      --sidebar
+      --dashboard
+      
+           --card 
+           --area-chart 
+           --table
+           --pie-chart
